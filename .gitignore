@@ -1,0 +1,9 @@
+01-sasl-and-tls/ca/
+01-sasl-and-tls/volumes/certs/
+01-sasl-and-tls/volumes/redpanda-var/
+*.log
+*.base_index
+*.compaction_index
+*.cert
+*.key
+config_cache.yaml
